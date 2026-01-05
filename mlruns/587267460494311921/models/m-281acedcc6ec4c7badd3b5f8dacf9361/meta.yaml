@@ -1,0 +1,10 @@
+artifact_location: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/models/m-281acedcc6ec4c7badd3b5f8dacf9361/artifacts
+creation_timestamp: 1767626161585
+experiment_id: '587267460494311921'
+last_updated_timestamp: 1767626161614
+model_id: m-281acedcc6ec4c7badd3b5f8dacf9361
+model_type: null
+name: model
+source_run_id: fa275a14ca56431fa25c268209e8c0d0
+status: 3
+status_message: null

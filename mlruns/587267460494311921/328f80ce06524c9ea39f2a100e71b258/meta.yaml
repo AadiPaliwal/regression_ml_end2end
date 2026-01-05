@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/328f80ce06524c9ea39f2a100e71b258/artifacts
+end_time: 1767621765938
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: 328f80ce06524c9ea39f2a100e71b258
+run_name: spiffy-mouse-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767621366954
+status: 3
+tags: []
+user_id: aaditya.paliwal

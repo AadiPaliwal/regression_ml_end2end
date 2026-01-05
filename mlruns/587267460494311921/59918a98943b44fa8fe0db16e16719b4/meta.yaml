@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/59918a98943b44fa8fe0db16e16719b4/artifacts
+end_time: 1767621355424
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: 59918a98943b44fa8fe0db16e16719b4
+run_name: puzzled-owl-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767620408757
+status: 3
+tags: []
+user_id: aaditya.paliwal

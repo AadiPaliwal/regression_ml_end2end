@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/e8a5eb33a6e747d9b0ced941641576bd/artifacts
+end_time: 1767617721593
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: e8a5eb33a6e747d9b0ced941641576bd
+run_name: skittish-kite-219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767617518317
+status: 4
+tags: []
+user_id: aaditya.paliwal

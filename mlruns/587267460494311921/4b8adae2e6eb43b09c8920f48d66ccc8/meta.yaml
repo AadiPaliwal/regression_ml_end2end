@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/4b8adae2e6eb43b09c8920f48d66ccc8/artifacts
+end_time: 1767622052124
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: 4b8adae2e6eb43b09c8920f48d66ccc8
+run_name: beautiful-bear-414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767622046539
+status: 3
+tags: []
+user_id: aaditya.paliwal

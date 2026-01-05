@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/ada7cb6a965f43b9a29fd884492a66db/artifacts
+end_time: 1767621360201
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: ada7cb6a965f43b9a29fd884492a66db
+run_name: caring-bee-898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767621355429
+status: 3
+tags: []
+user_id: aaditya.paliwal

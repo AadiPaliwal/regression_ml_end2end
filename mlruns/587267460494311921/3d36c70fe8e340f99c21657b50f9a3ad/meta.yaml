@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/3d36c70fe8e340f99c21657b50f9a3ad/artifacts
+end_time: 1767622046531
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: 3d36c70fe8e340f99c21657b50f9a3ad
+run_name: orderly-frog-998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767621850618
+status: 3
+tags: []
+user_id: aaditya.paliwal

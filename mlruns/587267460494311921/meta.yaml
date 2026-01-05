@@ -1,0 +1,6 @@
+artifact_location: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921
+creation_time: 1767617514075
+experiment_id: '587267460494311921'
+last_update_time: 1767617514075
+lifecycle_stage: active
+name: xgboost_optuna_housing

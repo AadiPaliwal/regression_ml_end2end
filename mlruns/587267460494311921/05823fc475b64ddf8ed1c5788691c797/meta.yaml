@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/05823fc475b64ddf8ed1c5788691c797/artifacts
+end_time: 1767626278387
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: 05823fc475b64ddf8ed1c5788691c797
+run_name: best_xgboost_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767626275645
+status: 3
+tags: []
+user_id: aaditya.paliwal

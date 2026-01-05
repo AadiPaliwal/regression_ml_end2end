@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/5f1742d4718444b4839e90ea0f2a2fe7/artifacts
+end_time: 1767621366952
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: 5f1742d4718444b4839e90ea0f2a2fe7
+run_name: mysterious-cub-416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767621360204
+status: 3
+tags: []
+user_id: aaditya.paliwal
