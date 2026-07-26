@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/54e293c375b149e692ef9ef54809add2/artifacts
+end_time: 1785049102235
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: 54e293c375b149e692ef9ef54809add2
+run_name: sneaky-wren-728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785049095419
+status: 3
+tags: []
+user_id: aaditya.paliwal

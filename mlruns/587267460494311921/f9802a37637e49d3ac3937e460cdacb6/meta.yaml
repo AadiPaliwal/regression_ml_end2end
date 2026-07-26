@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/f9802a37637e49d3ac3937e460cdacb6/artifacts
+end_time: 1785049056550
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: f9802a37637e49d3ac3937e460cdacb6
+run_name: debonair-crab-271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785049052787
+status: 3
+tags: []
+user_id: aaditya.paliwal

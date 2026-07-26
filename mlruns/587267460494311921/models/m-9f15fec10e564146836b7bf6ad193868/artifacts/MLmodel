@@ -1,0 +1,22 @@
+artifact_path: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/models/m-9f15fec10e564146836b7bf6ad193868/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+mlflow_version: 3.7.0
+model_id: m-9f15fec10e564146836b7bf6ad193868
+model_size_bytes: 8469537
+model_uuid: m-9f15fec10e564146836b7bf6ad193868
+prompts: null
+run_id: c1e8e5c0dce3409f8d87290a98264bba
+utc_time_created: '2026-07-26 07:01:33.894266'

@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/7c4372cac2fd4435bddb04e635429b95/artifacts
+end_time: 1785049239154
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: 7c4372cac2fd4435bddb04e635429b95
+run_name: unleashed-ram-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785049234272
+status: 3
+tags: []
+user_id: aaditya.paliwal

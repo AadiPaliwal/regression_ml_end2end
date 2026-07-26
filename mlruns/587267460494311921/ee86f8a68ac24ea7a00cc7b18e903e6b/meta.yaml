@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/ee86f8a68ac24ea7a00cc7b18e903e6b/artifacts
+end_time: 1785049095413
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: ee86f8a68ac24ea7a00cc7b18e903e6b
+run_name: smiling-shrimp-8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785049088367
+status: 3
+tags: []
+user_id: aaditya.paliwal

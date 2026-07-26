@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/f99f3c93c7904722a1a0d35b2ccdbd54/artifacts
+end_time: 1785049210092
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: f99f3c93c7904722a1a0d35b2ccdbd54
+run_name: luminous-whale-408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785049204147
+status: 3
+tags: []
+user_id: aaditya.paliwal

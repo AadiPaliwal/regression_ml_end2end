@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/cf69bafeb75a405781732eae78d56471/artifacts
+end_time: 1785049275535
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: cf69bafeb75a405781732eae78d56471
+run_name: serious-squirrel-932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785049269620
+status: 3
+tags: []
+user_id: aaditya.paliwal

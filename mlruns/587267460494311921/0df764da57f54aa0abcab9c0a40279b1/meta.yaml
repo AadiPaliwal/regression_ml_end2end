@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/0df764da57f54aa0abcab9c0a40279b1/artifacts
+end_time: 1785049234269
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: 0df764da57f54aa0abcab9c0a40279b1
+run_name: flawless-donkey-529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785049230570
+status: 3
+tags: []
+user_id: aaditya.paliwal

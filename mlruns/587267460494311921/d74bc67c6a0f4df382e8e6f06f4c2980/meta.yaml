@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/d74bc67c6a0f4df382e8e6f06f4c2980/artifacts
+end_time: 1785049247532
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: d74bc67c6a0f4df382e8e6f06f4c2980
+run_name: fortunate-hog-221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785049243977
+status: 3
+tags: []
+user_id: aaditya.paliwal

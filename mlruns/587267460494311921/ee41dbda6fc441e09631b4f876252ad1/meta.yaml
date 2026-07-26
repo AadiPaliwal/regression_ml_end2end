@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/ee41dbda6fc441e09631b4f876252ad1/artifacts
+end_time: 1785049252132
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: ee41dbda6fc441e09631b4f876252ad1
+run_name: adorable-shad-410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785049247534
+status: 3
+tags: []
+user_id: aaditya.paliwal

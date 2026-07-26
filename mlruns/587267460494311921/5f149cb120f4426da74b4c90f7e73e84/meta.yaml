@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/5f149cb120f4426da74b4c90f7e73e84/artifacts
+end_time: 1785049281805
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: 5f149cb120f4426da74b4c90f7e73e84
+run_name: burly-bass-804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785049275542
+status: 3
+tags: []
+user_id: aaditya.paliwal

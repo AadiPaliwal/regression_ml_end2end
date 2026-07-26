@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/98a0f77987544957bc0d4c2b863b2776/artifacts
+end_time: 1785049264621
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: 98a0f77987544957bc0d4c2b863b2776
+run_name: classy-bass-107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785049260846
+status: 3
+tags: []
+user_id: aaditya.paliwal

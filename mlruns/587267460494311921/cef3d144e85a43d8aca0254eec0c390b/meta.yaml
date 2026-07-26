@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/cef3d144e85a43d8aca0254eec0c390b/artifacts
+end_time: 1785049083485
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: cef3d144e85a43d8aca0254eec0c390b
+run_name: orderly-ape-414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785049078753
+status: 3
+tags: []
+user_id: aaditya.paliwal

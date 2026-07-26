@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/e28c0c5a56964ab98d58550bbc58563d/artifacts
+end_time: 1785049052785
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: e28c0c5a56964ab98d58550bbc58563d
+run_name: unruly-crow-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785049047639
+status: 3
+tags: []
+user_id: aaditya.paliwal

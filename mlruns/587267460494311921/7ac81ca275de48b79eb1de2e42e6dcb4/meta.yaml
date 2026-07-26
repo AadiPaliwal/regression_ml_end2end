@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/7ac81ca275de48b79eb1de2e42e6dcb4/artifacts
+end_time: 1785049041333
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: 7ac81ca275de48b79eb1de2e42e6dcb4
+run_name: able-rook-141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785049036491
+status: 3
+tags: []
+user_id: aaditya.paliwal

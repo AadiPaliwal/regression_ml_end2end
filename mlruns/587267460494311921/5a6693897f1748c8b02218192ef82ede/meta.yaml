@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/5a6693897f1748c8b02218192ef82ede/artifacts
+end_time: 1785049031429
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: 5a6693897f1748c8b02218192ef82ede
+run_name: skittish-snipe-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785049025062
+status: 3
+tags: []
+user_id: aaditya.paliwal

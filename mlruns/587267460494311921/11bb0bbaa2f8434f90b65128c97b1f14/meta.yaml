@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/11bb0bbaa2f8434f90b65128c97b1f14/artifacts
+end_time: 1785049230567
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: 11bb0bbaa2f8434f90b65128c97b1f14
+run_name: omniscient-fawn-188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785049220104
+status: 3
+tags: []
+user_id: aaditya.paliwal

@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/7bc5f60554e34913a5b5d48f8f30fc96/artifacts
+end_time: 1785048946001
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: 7bc5f60554e34913a5b5d48f8f30fc96
+run_name: stylish-bat-169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785048882829
+status: 4
+tags: []
+user_id: aaditya.paliwal

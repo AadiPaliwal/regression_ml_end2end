@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/349f85673d8d4605bb74922de27ab277/artifacts
+end_time: 1785049036485
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: 349f85673d8d4605bb74922de27ab277
+run_name: dapper-zebra-711
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785049031434
+status: 3
+tags: []
+user_id: aaditya.paliwal

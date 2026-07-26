@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/b22e5236394f43d0a23502ef896172ad/artifacts
+end_time: 1785049065362
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: b22e5236394f43d0a23502ef896172ad
+run_name: invincible-koi-413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785049056552
+status: 3
+tags: []
+user_id: aaditya.paliwal

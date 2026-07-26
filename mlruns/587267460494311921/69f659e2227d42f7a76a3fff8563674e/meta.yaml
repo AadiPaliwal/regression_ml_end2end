@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/69f659e2227d42f7a76a3fff8563674e/artifacts
+end_time: 1785049067791
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: 69f659e2227d42f7a76a3fff8563674e
+run_name: upset-dove-999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785049065364
+status: 3
+tags: []
+user_id: aaditya.paliwal

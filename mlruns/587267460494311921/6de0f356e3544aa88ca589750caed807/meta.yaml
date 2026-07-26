@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/6de0f356e3544aa88ca589750caed807/artifacts
+end_time: 1785049047637
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: 6de0f356e3544aa88ca589750caed807
+run_name: dashing-toad-144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785049041335
+status: 3
+tags: []
+user_id: aaditya.paliwal

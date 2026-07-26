@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaditya.paliwal/Desktop/regression_ml_end2end/mlruns/587267460494311921/8c61744ada2e4be8a009660a5f01478b/artifacts
+end_time: 1785049215487
+entry_point_name: ''
+experiment_id: '587267460494311921'
+lifecycle_stage: active
+run_id: 8c61744ada2e4be8a009660a5f01478b
+run_name: charming-kit-726
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785049210095
+status: 3
+tags: []
+user_id: aaditya.paliwal
