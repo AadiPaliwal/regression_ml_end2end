@@ -2,7 +2,7 @@
 # Having Separate Dockerfiles for UI and FastAPI avoids mixing UI logic with backend logic.
 
 # makes builds work across different mac architectures
-FROM --platform=$BUILDPLATFORM python:3.11-slim
+FROM --platform=$BUILDPLATFORM python:3.13-slim
 
 ENV PYTHONUNBUFFERED=1 PIP_NO_CACHE_DIR=1
 WORKDIR /app

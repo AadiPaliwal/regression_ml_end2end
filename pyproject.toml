@@ -21,8 +21,10 @@ dependencies = [
     "pandas>=2.3.3",
     "polars>=1.36.1",
     "pytest>=9.0.2",
+    "requests>=2.32.5",
     "scikit-learn>=1.8.0",
     "seaborn>=0.13.2",
     "streamlit>=1.52.1",
+    "uvicorn>=0.38.0",
     "xgboost>=3.1.2",
 ]
